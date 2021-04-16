@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
 
-<!--
-**Saltyparts/Saltyparts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm an aspiring graphics developer at the University of Oklahoma
 
-Here are some ideas to get you started:
+##### PROJECTS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐢 [Trtle](https://github.com/Saltyparts/trtle)
+- ⚔️ [Colosseum](https://github.com/colosseum-game)
+
+##### BIO
+
+- ⌨️ Seeking remote internships for the 2021 summer
+- 🧰 I regularly use `.rs`, `.c`, `.glsl`, and `.py`
+- 🌱 Currently learning about high-level emulation and software exploits
+- 🎹 I occasionally write and perform songs with my hands
+- ❤️ I'm in love with the rust language
+- :hurtrealbad: Retro game fanatic
