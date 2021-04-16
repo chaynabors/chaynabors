@@ -4,8 +4,8 @@
 
 ##### PROJECTS
 
-- 🐢 [Trtle](https://github.com/Saltyparts/trtle)
-- ⚔️ [Colosseum](https://github.com/colosseum-game)
+- 🐢 [Trtle](https://github.com/Saltyparts/trtle): A cycle-accurate Game Boy emulator written in C
+- ⚔️ [Colosseum](https://github.com/colosseum-game): A multiplayer, matchmade JRPG written in Rust
 
 ##### BIO
 
@@ -13,5 +13,5 @@
 - 🧰 I regularly use `.rs`, `.c`, `.glsl`, and `.py`
 - 🌱 Currently learning about high-level emulation and software exploits
 - 🎹 I occasionally write and perform songs with my hands
-- ❤️ I'm in love with the rust language
+- ❤️ I'm in love with the Rust language
 - :hurtrealbad: Retro game fanatic
