@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- ⌨️ Seeking remote internships for the 2021 summer
+- ⌨️ Seeking remote internships for the summer of 2021
 - 🧰 I regularly use `.rs`, `.c`, `.glsl`, and `.py`
 - 🌱 Currently learning about high-level emulation and software exploits
 - 🎹 I occasionally write and perform songs with my hands
