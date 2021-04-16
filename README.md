@@ -14,4 +14,4 @@
 - 🌱 Currently learning about high-level emulation and software exploits
 - 🎹 I occasionally write and perform songs with my hands
 - ❤️ I'm in love with the Rust language
-- :hurtrealbad: Retro game fanatic
+- 🕹️ Retro game fanatic
