@@ -8,9 +8,9 @@
   - [Libretro frontend](https://github.com/Saltyparts/trtle-libretro)
   - [Qt frontend](https://github.com/Saltyparts/trtle-qt)
 - ⚔️ [Colosseum](https://github.com/colosseum-game): A multiplayer, matchmade JRPG written in Rust
-  - [Core](https://github.com/colosseum-game/core)
-  - [Client](https://github.com/colosseum-game/client)
-  - [Server](https://github.com/colosseum-game/server)
+  - [Core](https://github.com/colosseum-game/colosseum-core)
+  - [Client](https://github.com/colosseum-game/colosseum-client)
+  - [Server](https://github.com/colosseum-game/colosseum-server)
 
 ##### BIO
 
