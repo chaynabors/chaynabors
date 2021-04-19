@@ -5,8 +5,8 @@
 ##### PROJECTS
 
 - 🐢 [Trtle](https://github.com/Saltyparts/trtle): A cycle-accurate Game Boy emulator written in C
-  - [Libretro frontend](https://github.com/Saltyparts/trtle-libretro)
   - [Qt frontend](https://github.com/Saltyparts/trtle-qt)
+  - [Libretro frontend](https://github.com/Saltyparts/trtle-libretro)
 - ⚔️ [Colosseum](https://github.com/colosseum-game): A multiplayer, matchmade JRPG written in Rust
   - [Core](https://github.com/colosseum-game/colosseum-core)
   - [Client](https://github.com/colosseum-game/colosseum-client)
