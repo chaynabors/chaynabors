@@ -16,7 +16,7 @@
 
 - ⌨️ Seeking remote internships for the summer of 2021
 - 🧰 I regularly use `.rs`, `.c`, `.glsl`, and `.py`
-- 🌱 Currently learning about high-level emulation and software exploits
+- 🌱 Currently digging into software exploits and Runge-Kutta methods
 - 🎹 I occasionally write and perform songs with my hands
 - ❤️ I'm in love with the Rust language
 - 🕹️ Retro game fanatic
