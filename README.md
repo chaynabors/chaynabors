@@ -13,7 +13,7 @@
 ##### BIO
 
 - ⌨️ Seeking remote internships for the summer of 2021
-- 🧰 I regularly use `.rs`, `.c`, `.glsl`, and `.py`
+- 🧰 I regularly use `.rs`, `.c`, `.py`, and various graphics languages
 - 🌱 Currently digging into software exploits and Runge-Kutta methods
 - 🎹 I occasionally write and perform songs with my hands
 - ❤️ I'm in love with the Rust language
