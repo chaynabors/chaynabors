@@ -12,7 +12,7 @@
 
 ##### BIO
 
-- ⌨️ Seeking remote internships for the summer of 2021
+- ⌨️ Currently available for contract work
 - 🧰 I regularly use `.rs`, `.c`, `.py`, and various graphics languages
 - 🌱 Currently digging into software exploits and Runge-Kutta methods
 - 🎹 I occasionally write and perform songs with my hands
