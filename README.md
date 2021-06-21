@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-#### I'm an aspiring graphics developer at the University of Oklahoma
+#### I'm a graphics engineer and contractor studying at the University of Oklahoma
 
 ##### PROJECTS
 
