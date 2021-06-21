@@ -5,6 +5,7 @@
 ##### PROJECTS
 
 - 🐢 [Trtle](https://github.com/Saltyparts/trtle): A cycle-accurate Game Boy emulator and Libretro core written in C
+- :suspect: [Gear](https://github.com/Saltyparts/gear): A realtime engine designed mostly for game jams
 - ⚔️ [Colosseum](https://github.com/colosseum-game): A multiplayer, matchmade JRPG written in Rust
   - [Core](https://github.com/colosseum-game/colosseum-core)
   - [Client](https://github.com/colosseum-game/colosseum-client)
