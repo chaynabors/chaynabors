@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-#### I'm a graphics engineer and contractor studying at the University of Oklahoma
+#### Monster slayer studying at the University of Oklahoma
 
 ##### PROJECTS
 
