@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-#### Monster slayer studying at the University of Oklahoma
+#### I'm a monster slayer studying at the University of Oklahoma
 
 ##### PROJECTS
 
