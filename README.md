@@ -4,9 +4,9 @@
 
 ##### PROJECTS
 
-- 🐢 [Trtle](https://github.com/Saltyparts/trtle): A cycle-accurate Game Boy emulator and Libretro core written in C
-- 🧰 [Gear](https://github.com/Saltyparts/gear): A thin realtime engine designed mostly for game jams
-- ⚔️ [Colosseum](https://github.com/Saltyparts/colosseum): A multiplayer, matchmade JRPG written in Rust
+- 🐢 [Trtle](https://github.com/chaynabors/trtle): A cycle-accurate Game Boy emulator and Libretro core written in C
+- 🧰 [Gear](https://github.com/chaynabors/gear): A thin realtime engine designed mostly for game jams
+- ⚔️ [Colosseum](https://github.com/chaynabors/colosseum): A multiplayer, matchmade JRPG written in Rust
 
 ##### BIO
 
