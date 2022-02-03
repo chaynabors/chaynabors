@@ -7,14 +7,13 @@
 - 🐢 [Trtle](https://github.com/chaynabors/trtle): A cycle-accurate Game Boy emulator and Libretro core written in C
 - ⚔️ [Colosseum](https://github.com/chaynabors/colosseum): A multiplayer, matchmade JRPG written in Rust
 - ⚗️ [RPG](https://github.com/chaynabors/rpg): (Name WIP) The engine and game code for an FF style RPG
-- 🪟 [GUI](https://github.com/chaynabors/gui): (Name WIP) A native rust GUI library which is renderer/event-loop agnostic
+- 🪟 [RMGUI](https://github.com/chaynabors/gui): A rusty, retained GUI library which is renderer/event-loop agnostic
 
 ##### BIO
 
-- ⌨️ Currently available for contract work
+- ⌨️ Currently available for all types of work
 - 📓 I regularly use `.rs`, `.c`, `.py`, and various graphics languages
-- 🌱 Studying linear again
-- 🎹 I occasionally write and perform songs with my hands
+- 🌱 Researching the performance of hardware accelerated raytracing methods
 - ❤️ I'm in love with the Rust language
 - 🕹️ Retro game fanatic
 
