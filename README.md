@@ -13,7 +13,7 @@
 
 - ⌨️ Currently available for all types of work
 - 📓 I regularly use `.rs`, `.c`, `.py`, and various graphics languages
-- 🌱 Researching the performance of hardware accelerated raytracing methods
+- 🌱 Studying computational geometry
 - ❤️ I'm in love with the Rust language
 - 🕹️ Retro game fanatic
 
