@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-#### I'm a monster slayer and dungeon delver studying at the University of Oklahoma
+#### I'm a monster slayer and dungeon delver building free software for awesome communities.
 
 ##### PROJECTS
 
