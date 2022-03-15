@@ -9,7 +9,6 @@
 - 🗺️ [Mappy](https://github.com/chaynabors/mappy): A custom compiler for maps made using TrenchBroom
 - ⚗️ [RPG](https://github.com/chaynabors/rpg): (Name WIP) The engine and game code for an FF style RPG
 - 🕳️ [Fall](https://github.com/chaynabors/fall): An homage to Quake and its lovely modding community
-- 🪟 [RMGUI](https://github.com/chaynabors/gui): A rusty, retained GUI library which is renderer/event-loop agnostic
 
 ##### BIO
 
@@ -18,6 +17,10 @@
 - 🌱 Studying computational geometry
 - ❤️ I'm in love with the Rust language
 - 🕹️ Retro game fanatic
+
+##### BACKBURNER
+
+- 🪟 [RMGUI](https://github.com/chaynabors/gui): A rusty, retained GUI library which is renderer/event-loop agnostic
 
 ##### ARCHIVE
 
