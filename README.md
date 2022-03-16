@@ -5,10 +5,10 @@
 ##### PROJECTS
 
 - 🐢 [Trtle](https://github.com/chaynabors/trtle): A cycle-accurate Game Boy emulator and Libretro core written in C
+- 🗺️ [Mappy](https://github.com/chaynabors/mappy): A custom runtime compiler for the original `.map`file specification
+- 🕳️ [Fall](https://github.com/chaynabors/fall): A content driven, partially extensible engine and game inspired by Quake
 - ⚔️ [Colosseum](https://github.com/chaynabors/colosseum): A multiplayer, matchmade JRPG written in Rust
-- 🗺️ [Mappy](https://github.com/chaynabors/mappy): A custom compiler for maps made using TrenchBroom
 - ⚗️ [RPG](https://github.com/chaynabors/rpg): (Name WIP) The engine and game code for an FF style RPG
-- 🕳️ [Fall](https://github.com/chaynabors/fall): An homage to Quake and its lovely modding community
 
 ##### BIO
 
@@ -20,6 +20,7 @@
 
 ##### BACKBURNER
 
+- 📐 [Whetstone](https://github.com/chaynabors/whetstone): A functional interpreter purposed as the scripting runtime for `Fall`
 - 🪟 [RMGUI](https://github.com/chaynabors/gui): A rusty, retained GUI library which is renderer/event-loop agnostic
 
 ##### ARCHIVE
