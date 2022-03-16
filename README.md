@@ -18,6 +18,8 @@
 - ❤️ I'm in love with the Rust language
 - 🕹️ Retro game fanatic
 
+---
+
 ##### BACKBURNER
 
 - 📐 [Whetstone](https://github.com/chaynabors/whetstone): A functional interpreter purposed as the scripting runtime for `Fall`
