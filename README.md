@@ -27,7 +27,7 @@
 
 ##### ARCHIVE
 
-- 🧰 [Gear](https://github.com/chaynabors/gear): A thin realtime engine with batteries included
+- 🧰 [Gear](https://github.com/chaynabors/gear): A thin, batteries included realtime engine with support for WASM and native
 - 🚧 [Hacklahoma-2021](https://github.com/chaynabors/hacklahoma-2021): A simple multiplayer game written in lua
 - 🐢 [Trtle-qt](https://github.com/chaynabors/trtle-qt): A now-defunct frontend for the trtle emulator
  
