@@ -12,7 +12,7 @@
 
 ##### BIO
 
-- ⌨️ Currently available for all types of work
+- ⌨️ Currently unavailable for work
 - 📓 I regularly use `.rs`, `.c`, `.py`, and various graphics languages
 - 🌱 Studying computational geometry
 - ❤️ I'm in love with the Rust language
