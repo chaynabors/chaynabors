@@ -5,10 +5,6 @@
 ##### PROJECTS
 
 - 🐢 [Trtle](https://github.com/chaynabors/trtle): A cycle-accurate Game Boy emulator and Libretro core written in C
-- 🗺️ [Mappy](https://github.com/chaynabors/mappy): A custom runtime compiler for the original `.map`file specification
-- 🕳️ [Fall](https://github.com/chaynabors/fall): A content driven, partially extensible engine and game inspired by Quake
-- ⚔️ [Colosseum](https://github.com/chaynabors/colosseum): A multiplayer, matchmade JRPG written in Rust
-- ⚗️ [RPG](https://github.com/chaynabors/rpg): (Name WIP) The engine and game code for an FF style RPG
 
 ##### BIO
 
@@ -27,6 +23,10 @@
 
 ##### ARCHIVE
 
+- 🗺️ [Mappy](https://github.com/chaynabors/mappy): A custom runtime compiler for the original `.map`file specification
+- 🕳️ [Fall](https://github.com/chaynabors/fall): A content driven, partially extensible engine and game inspired by Quake
+- ⚔️ [Colosseum](https://github.com/chaynabors/colosseum): A multiplayer, matchmade JRPG written in Rust
+- ⚗️ [RPG](https://github.com/chaynabors/rpg): (Name WIP) The engine and game code for an FF style RPG
 - 🧰 [Gear](https://github.com/chaynabors/gear): A thin, batteries included realtime engine with support for WASM and native
 - 🚧 [Hacklahoma-2021](https://github.com/chaynabors/hacklahoma-2021): A simple multiplayer game written in lua
 - 🐢 [Trtle-qt](https://github.com/chaynabors/trtle-qt): A now-defunct frontend for the trtle emulator
