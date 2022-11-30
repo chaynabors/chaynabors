@@ -1,4 +1,4 @@
-## Welcome to my GitHub 👋
+### Welcome to my GitHub 👋
 Hey there, I'm Chay. I'm a professional systems engineer based out of San Francisco. I'm part of the core team at Fig, and I lead the development of Fig for Windows. Additionally, I'm responsible for all of our terminal rendering code.
 
 Outside of Fig, I spend much of my time with my friends and family. The rest of it is devoted to computer graphics and game design.
