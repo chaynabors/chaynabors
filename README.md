@@ -10,8 +10,8 @@ Outside of Fig, I spend much of my time with my friends and family. The rest of 
 - 🗺️ [Mappy](https://github.com/chaynabors/mappy): A suite of tools for parsing and compiling `.map` files written in Rust
 
 #### BIO
-- ⌨️ Currently unavailable for work
-- 📓 I regularly use `.rs`, `.c`, `.py`, and various graphics languages
-- 🌱 Studying photon mapping and performant raytracing
+- ⌨️ Systems engineer and Windows lead at [Fig](https://github.com/withfig)
+- 📓 I regularly use `.rs`, `.c`, `.wgsl`, these days
+- 🌱 Studying drivers and researching the performance of modern raytracing techniques
 - ❤️ I'm in love with the Rust language
 - 🕹️ Retro game fanatic
