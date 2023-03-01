@@ -3,6 +3,8 @@ Hey there, I'm Chay. I'm a professional systems engineer based out of San Franci
 
 Outside of Fig, I spend much of my time with my girlfriend and my kitty. Everything else is devoted to computer graphics and game design.
 
+If you're curious about computer graphics lessons, please email me directly.
+
 ---
 
 - ⌨️ Systems engineer and project manager at [Fig](https://github.com/withfig)
