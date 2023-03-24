@@ -6,7 +6,7 @@ If you're curious about computer graphics lessons, please email me directly.
 ---
 
 - ⌨️ Systems engineer and project manager at [Fig](https://github.com/withfig)
-- 📓 I regularly use `.rs`, `.ts`, `.wgsl`, these days
+- 📓 I regularly use `.rs`, `.wgsl`, and `.ts` these days
 - 🌱 Studying drivers and researching the performance of modern raytracing techniques
 - ❤️ I'm in love with the Rust language
 - 🕹️ Retro game fanatic
