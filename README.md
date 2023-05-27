@@ -1,11 +1,15 @@
 ### Welcome to my GitHub 👋
-Hey there, I'm Chay. I'm a professional systems engineer based out of San Francisco. I'm part of the core team at Fig. I used to lead the development of Fig for Windows but we're now searching for PMF. Despite this, I'm still responsible for all of our terminal rendering code which we hope to open-source soon.
+Hey there, I'm Chay. I love Rust but I tend to work all around the stack. I keep very close to myself but I'm very warm with my team at Fig and my friends and family besides.
 
-If you're curious about computer graphics lessons, please email me directly.
+We created comprehensive autocomplete and AI completions for your existing shell.
+
+We also created cicada.build, a way to write your CI/CD in TypeScript and run it locally as well as remote.
+
+In my own time I'm creating a game called Arise, an arcade FPS inspired by Quake. It's a game for you and your friends and offers a comprehensive modding framework written in Rust 🚀
 
 ---
 
-- ⌨️ Systems engineer and project manager at [Fig](https://github.com/withfig)
+- ⌨️ Systems engineer at [Fig](https://github.com/withfig)
 - 📓 I regularly use `.rs`, `.wgsl`, and `.ts` these days
 - 🌱 Studying drivers and researching the performance of modern raytracing techniques
 - ❤️ I'm in love with the Rust language
