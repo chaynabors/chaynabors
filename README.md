@@ -11,7 +11,7 @@ We also created cicada.build, a way to write your CI/CD in TypeScript and run it
 
 ---
 
-- 🇧🇷 Software engineer at AWS
+- 🧑🏻‍💻 Software engineer at AWS
 - ⌨️ Founding engineer acquired from [Fig](https://github.com/withfig)
 - 📓 I regularly use `.rs`, `.ts` and more
 - 🌱 Studying drivers and hardware, especially graphics hardware
