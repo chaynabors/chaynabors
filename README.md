@@ -1,13 +1,9 @@
 ### Welcome to my GitHub 👋
-Hey there, I'm Chay. I love Rust but I tend to work all around the stack. I keep very close to myself but I'm very warm with my team and my friends and family besides.
+Hey there, I'm Chay. I keep very close to myself but I'm very warm with my team and my friends and family besides. I've been writing low-level Rust code for seven years, and I'm a secretly a skilled graphics software engineer and hobbiest indie dev.
 
-I've been writing low-level Rust code for seven years.
+At AWS, we built the shell and terminal integrations for Amazon Q Developer. (prev. CodeWhisperer for command line).
 
-At AWS, we built CodeWhisperer for command line.
-
-At Fig, we created comprehensive autocomplete and AI completions for your existing shell.
-
-We also created cicada.build, a way to write your CI/CD in TypeScript and run it locally as well as remote.
+Before being acquired from Fig, me and my team created comprehensive autocomplete and AI completions for your existing shell.
 
 ---
 
