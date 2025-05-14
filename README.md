@@ -1,15 +1,6 @@
 ### Welcome to my GitHub 👋
-Hey there, I'm Chay. I keep very close to myself but I'm very warm with my team and my friends and family besides. I've been writing low-level Rust code for seven years, and I'm secretly a skilled graphics software engineer and hobbiest indie dev.
+I’m Chay, software engineer at AWS. Me and my team of five were acquired for our work on Fig. (YC S20)
 
-At AWS, we built the shell and terminal integrations for Amazon Q Developer. (prev. CodeWhisperer for command line).
+I work across teams and throughout the stack as the primary maintainer for our terminal experiences under Amazon Q. Most of my time is spent writing engineering specs and proposals, but I carve time out for major rewrites and complex features when it’s required.
 
-Before being acquired from Fig, me and my team created comprehensive autocomplete and AI completions for your existing shell.
-
----
-
-- 🧑🏻‍💻 Software engineer at AWS
-- ⌨️ Founding engineer acquired from [Fig](https://github.com/withfig)
-- 📓 I regularly use `.rs`, `.ts` and more
-- 🌱 Studying drivers and hardware, especially graphics hardware
-- ❤️ I'm in love with the Rust language
-- 🕹️ Retro game fanatic
+At Fig we built terminal autocomplete. Our Autocomplete specs are used by enterprises like Amazon and Microsoft, and by startups like Warp as well.
