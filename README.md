@@ -1,8 +1,11 @@
 ### Welcome to my GitHub 👋
-I’m Chay, software engineer at AWS. Me and my team of five were acquired for our work on Fig. (YC S20)
+I’m Chay, software engineer at AWS. Me and my team were acquired for our work on [Fig](fig.io.home). (YC S20)
 
-I work across teams and throughout the stack as a contributor to Amazon Q, and as the lead on Q CLI.
+* I dropped out of school in 2022 and built Fig alongside Grant Gurvis and Sean Sullivan.
+* Me and Grant wrote Amazon CodeWhisperer for Command Line.
+* I wrote Amazon Q CLI which is now Kiro CLI.
+* I now work on [Strands Agents](https://strandsagents.com/latest/) and internal research.
 
-At Fig we built terminal autocomplete. Our Autocomplete specs are used by enterprises like Amazon and Microsoft, and by startups like Warp as well.
+I fool around with graphics, compilers, realtime audio, and game engines in my free time.
 
-In my free time I write graphics code. I’m currently building a desktop environment for ink displays on Nix, but my last hobby project was baking spherical harmonics into lightmaps on the GPU.
+Every day I wonder if I should have been an artist instead.
