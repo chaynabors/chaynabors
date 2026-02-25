@@ -1,6 +1,6 @@
 ### Goodbye GitHub 👋
 
-**I have migrated most of my personal projects to [Codeberg](https://codeberg.org/chaynabors).**
+**I have migrated all of my personal projects to [Codeberg](https://codeberg.org/chaynabors).**
 
 I’m Chay, software engineer at AWS. Me and my team were acquired for our work on [Fig](fig.io.home). (YC S20)
 
