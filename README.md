@@ -1,4 +1,7 @@
 ### Welcome to my GitHub 👋
+
+**I have migrated most of my personal projects to [Codeberg](https://codeberg.org/chaynabors).**
+
 I’m Chay, software engineer at AWS. Me and my team were acquired for our work on [Fig](fig.io.home). (YC S20)
 
 * I dropped out of school in 2022 and built Fig alongside Grant Gurvis and Sean Sullivan.
