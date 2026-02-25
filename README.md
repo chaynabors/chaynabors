@@ -1,4 +1,4 @@
-### Welcome to my GitHub 👋
+### Goodbye GitHub 👋
 
 **I have migrated most of my personal projects to [Codeberg](https://codeberg.org/chaynabors).**
 
